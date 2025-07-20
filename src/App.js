@@ -1,9 +1,8 @@
-import TodoList from './TodoList.js'
+import TodoList from './TodoList.jsx'
 
 function App() {
   return(
-    <>
-     <TodoList/>
+    <> <TodoList/>
     </>
   ); 
 }
